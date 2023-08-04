@@ -1,7 +1,7 @@
-package task27.ornek5;
+package fıtnat_sena.task27.ornek5;
 
 public abstract class Personel {
-    public String name ="Nur Hanım";
+    String name ="Nur Hanım";
 
     public abstract void maasHesapla();//abs. meth
     public abstract void maasBilgisi();//abs. meth
